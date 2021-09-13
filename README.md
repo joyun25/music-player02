@@ -14,9 +14,6 @@
 #### 使用技術：
 - html, css, javascript
 
-#### 第三方插件：
-- font-awesome
-
 #### 內容使用申明：
 - 字型使用：[google font](https://fonts.google.com/)
 - 音樂與圖片來源：Modern Web提供的[雲端資料夾](https://drive.google.com/drive/folders/1xLHnOMpWgOiQLHY6hpUQZ5CKf2MT1Sog?usp=sharing)
